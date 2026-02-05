@@ -1,0 +1,14 @@
+# Qt / CMake / Build
+build*/
+*.user
+*.autosave
+*.qmlc
+*.qmlcache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
